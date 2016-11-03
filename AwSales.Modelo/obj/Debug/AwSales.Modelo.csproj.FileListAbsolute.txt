@@ -1,0 +1,5 @@
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Modelo\bin\Debug\AwSales.Modelo.dll
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Modelo\bin\Debug\AwSales.Modelo.pdb
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Modelo\obj\Debug\AwSales.Modelo.csprojResolveAssemblyReference.cache
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Modelo\obj\Debug\AwSales.Modelo.dll
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Modelo\obj\Debug\AwSales.Modelo.pdb

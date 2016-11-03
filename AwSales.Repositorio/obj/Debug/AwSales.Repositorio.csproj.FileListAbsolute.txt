@@ -1,0 +1,12 @@
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\AwSales.Repositorio.dll.config
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\AwSales.Repositorio.dll
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\AwSales.Repositorio.pdb
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\AwSales.Modelo.dll
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\AwSales.Modelo.pdb
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\obj\Debug\AwSales.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\obj\Debug\AwSales.Repositorio.dll
+C:\Users\christian\Desktop\Seguridad\AdventureWorks\AwSales.Repositorio\obj\Debug\AwSales.Repositorio.pdb
